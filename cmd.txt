@@ -1,0 +1,15 @@
+scrapy fetch --nolog http://www.example.com/some/page.html
+scrapy fetch --nolog --headers http://www.example.com/
+scrapy view <url>
+scrapy crawl <spider>
+scrapy check [-l] <spider>
+scrapy list
+scrapy shell [url]
+scrapy parse <url> [options]
+scrapy parse http://www.example.com/ -c parse_item
+scrapy runspider <spider_file.py>
+scrapy version [-v]
+scrapy deploy [ <target:project> | -l <target> | -L ]
+scrapy startproject <project_name>
+scrapy genspider [-t template] <name> <domain>
+scrapy edit <spider>

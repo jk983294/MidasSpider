@@ -1,14 +1,5 @@
-# -*- coding: utf-8 -*-
+from scrapy.item import Item, Field
 
-# Define here the models for your scraped items
-#
-# See documentation in:
-# http://doc.scrapy.org/en/latest/topics/items.html
-
-import scrapy
-
-
-class MidasspiderItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+class StackItem(Item):
+    title = Field()
+    url = Field()
