@@ -2,9 +2,11 @@ scrapy fetch --nolog http://www.example.com/some/page.html
 scrapy fetch --nolog --headers http://www.example.com/
 scrapy view <url>
 scrapy crawl <spider>
+scrapy crawl stack -o items.json -t json
 scrapy check [-l] <spider>
 scrapy list
 scrapy shell [url]
+    response.xpath("/html/body/div[2]/div[8]/div[1]/div[1]/table/tbody/tr").extract()[0]
 scrapy parse <url> [options]
 scrapy parse http://www.example.com/ -c parse_item
 scrapy runspider <spider_file.py>
@@ -13,3 +15,6 @@ scrapy deploy [ <target:project> | -l <target> | -L ]
 scrapy startproject <project_name>
 scrapy genspider [-t template] <name> <domain>
 scrapy edit <spider>
+
+scrapy shell "http://www.dmoz.org/Computers/Programming/Languages/Python/Books/"
+response.xpath(’//title’)
