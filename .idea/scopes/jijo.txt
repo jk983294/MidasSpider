@@ -1,0 +1,1058 @@
+//##**---------------- UOZG_NZK.XKK
+#RMXOFWV <RLHGIVZN>
+#RMXOFWV <NFGVC>
+#RMXOFWV <XLMWRGRLM_EZIRZYOV>
+#RMXOFWV <GSIVZW>
+#RMXOFWV <JFVFV>
+#RMXOFWV <XHGWORY>
+#RMXOFWV <XGRNV>
+#RMXOFWV <GBKV_GIZRGH>
+#RMXOFWV <ZGLNRX>
+#RMXOFWV <XZHHVIG>
+#RMXOFWV <HGWVCXVKG>
+#RMXOFWV "zHBMXoLT.S"
+#RMXOFWV <NVNLIB>
+#RMXOFWV <FGRORGB>
+#RMXOFWV <XSILML>
+
+FHRMT MZNVHKZXV HGW;
+
+
+GVNKOZGV<GBKVMZNV PVB_GBKV, GBKVMZNV EZO_GBKV>
+XOZHH UOZG_NZK
+{
+KFYORX:
+    GBKVWVU HGW::KZRI<PVB_GBKV, EZO_GBKV> KZRI_GBKV;
+    GBKVWVU GBKVMZNV HGW::EVXGLI<KZRI_GBKV >::RGVIZGLI RGVIZGLI;
+    GBKVWVU HGW::KZRI<RGVIZGLI, RGVIZGLI> RGVIZGLI_KZRI;
+
+    UOZG_NZK() : YhLIGVW(GIFV) {};
+    UOZG_NZK(XLMHG UOZG_NZK& ISH) = WVUZFOG;
+	UOZG_NZK(UOZG_NZK&& ISH) { HDZK(ISH); };
+	UOZG_NZK &LKVIZGLI=(XLMHG UOZG_NZK &ISH) = WVUZFOG;
+
+    ELRW XOVZI();
+    ELRW IVHVIEV(HRAV_G HRAV);
+    ELRW RMHVIG(XLMHG KZRI_GBKV &K);
+    ELRW RMHVIG(XLMHG PVB_GBKV &P, XLMHG EZO_GBKV &E);
+    RGVIZGLI URMW(XLMHG PVB_GBKV &P);
+    RGVIZGLI OLDVI_YLFMW(XLMHG PVB_GBKV &P);
+    RGVIZGLI FKKVI_YLFMW(XLMHG PVB_GBKV &P);
+    RGVIZGLI_KZRI VJFZO_IZMTV(XLMHG PVB_GBKV &P);
+    HRAV_G XLFMG(XLMHG PVB_GBKV &P);
+    YLLO VNKGB();
+    HRAV_G HRAV();
+    RGVIZGLI VIZHV(XLMHG PVB_GBKV &P);
+    RGVIZGLI VIZHV(RGVIZGLI R9);
+    RGVIZGLI VIZHV(RGVIZGLI R9, RGVIZGLI R8);
+    ELRW HDZK(UOZG_NZK& LGSVI) ;
+
+    RGVIZGLI YVTRM();
+    RGVIZGLI VMW();
+
+    ELRW HLIG(YLLO YkIRLIRGBuRIHGfMRJFV = UZOHV);
+
+KIREZGV:
+    GVNKOZGV<XOZHH g>
+    HGIFXG UOZG_NZK_OVHH_PVB
+    {
+        YLLO LKVIZGLI() (XLMHG g& OSH, XLMHG g& ISH) XLMHG
+        {
+            IVGFIM OSH.URIHG < ISH.URIHG;
+        }
+    };
+
+    GVNKOZGV<XOZHH g>
+    HGIFXG UOZG_NZK_VJFZO_PVB
+    {
+        YLLO LKVIZGLI() (XLMHG g& OSH, XLMHG g& ISH) XLMHG
+        {
+            IVGFIM OSH.URIHG == ISH.URIHG;
+        }
+    };
+
+    GVNKOZGV<XOZHH g>
+    HGIFXG UOZG_NZK_VJFZO_PVB8
+    {
+        UOZG_NZK_VJFZO_PVB8(XLMHG GBKVMZNV g::URIHG_GBKV& P) : N_PVB(P) {};
+
+        YLLO LKVIZGLI() (XLMHG g& K) XLMHG
+        {
+            IVGFIM K.URIHG == N_PVB;
+        }
+        XLMHG GBKVMZNV g::URIHG_GBKV& N_PVB;
+    };
+
+    HGW::EVXGLI<KZRI_GBKV> XLMGZRMVI;
+    YLLO YhLIGVW;
+};
+
+GVNKOZGV<GBKVMZNV PVB_GBKV, GBKVMZNV EZO_GBKV>
+ELRW UOZG_NZK<PVB_GBKV, EZO_GBKV>::XOVZI()
+{
+    XLMGZRMVI.XOVZI();
+    YhLIGVW = GIFV;
+}
+
+GVNKOZGV<GBKVMZNV PVB_GBKV, GBKVMZNV EZO_GBKV>
+ELRW UOZG_NZK<PVB_GBKV, EZO_GBKV>::IVHVIEV(HRAV_G HRAV)
+{
+    XLMGZRMVI.IVHVIEV(HRAV);
+}
+
+GVNKOZGV<GBKVMZNV PVB_GBKV, GBKVMZNV EZO_GBKV>
+ELRW UOZG_NZK<PVB_GBKV, EZO_GBKV>::RMHVIG(XLMHG KZRI_GBKV &K)
+{
+    XLMGZRMVI.KFHS_YZXP(K);
+    YhLIGVW = UZOHV;
+}
+
+GVNKOZGV<GBKVMZNV PVB_GBKV, GBKVMZNV EZO_GBKV>
+ELRW UOZG_NZK<PVB_GBKV, EZO_GBKV>::RMHVIG(XLMHG PVB_GBKV &P, XLMHG EZO_GBKV &E)
+{
+    XLMGZRMVI.KFHS_YZXP(HGW::NZPV_KZRI(P, E));
+    YhLIGVW = UZOHV;
+}
+
+GVNKOZGV<GBKVMZNV PVB_GBKV, GBKVMZNV EZO_GBKV>
+GBKVMZNV UOZG_NZK<PVB_GBKV, EZO_GBKV>::RGVIZGLI UOZG_NZK<PVB_GBKV, EZO_GBKV>::URMW(XLMHG PVB_GBKV &P)
+{
+    RU (!YhLIGVW) HLIG();
+    KZRI_GBKV K;
+    K.URIHG = P;
+    RGVIZGLI_KZRI KRG = HGW::VJFZO_IZMTV(XLMGZRMVI.YVTRM(), XLMGZRMVI.VMW(), K,
+                                         UOZG_NZK_OVHH_PVB<KZRI_GBKV>());
+    RU (KRG.URIHG == KRG.HVXLMW)
+        IVGFIM XLMGZRMVI.VMW();
+    IVGFIM KRG.URIHG;
+}
+
+GVNKOZGV<GBKVMZNV PVB_GBKV, GBKVMZNV EZO_GBKV>
+GBKVMZNV UOZG_NZK<PVB_GBKV, EZO_GBKV>::RGVIZGLI UOZG_NZK<PVB_GBKV, EZO_GBKV>::OLDVI_YLFMW(XLMHG PVB_GBKV &P)
+{
+    RU (!YhLIGVW) HLIG();
+    KZRI_GBKV K;
+    K.URIHG = P;
+    RGVIZGLI RG = HGW::OLDVI_YLFMW(XLMGZRMVI.YVTRM(), XLMGZRMVI.VMW(), K,
+                                   UOZG_NZK_OVHH_PVB<KZRI_GBKV>());
+    IVGFIM RG;
+}
+
+GVNKOZGV<GBKVMZNV PVB_GBKV, GBKVMZNV EZO_GBKV>
+GBKVMZNV UOZG_NZK<PVB_GBKV, EZO_GBKV>::RGVIZGLI UOZG_NZK<PVB_GBKV, EZO_GBKV>::FKKVI_YLFMW(XLMHG PVB_GBKV &P)
+{
+    RU (!YhLIGVW) HLIG();
+    KZRI_GBKV K;
+    K.URIHG = P;
+    RGVIZGLI RG = HGW::FKKVI_YLFMW(XLMGZRMVI.YVTRM(), XLMGZRMVI.VMW(), K,
+                                   UOZG_NZK_OVHH_PVB<KZRI_GBKV>());
+    IVGFIM RG;
+}
+
+GVNKOZGV<GBKVMZNV PVB_GBKV, GBKVMZNV EZO_GBKV>
+GBKVMZNV UOZG_NZK<PVB_GBKV, EZO_GBKV>::RGVIZGLI_KZRI UOZG_NZK<PVB_GBKV, EZO_GBKV>::VJFZO_IZMTV(XLMHG PVB_GBKV &P)
+{
+    RU (!YhLIGVW) HLIG();
+    KZRI_GBKV K;
+    K.URIHG = P;
+    RGVIZGLI_KZRI KRG = HGW::VJFZO_IZMTV(XLMGZRMVI.YVTRM(), XLMGZRMVI.VMW(), K,
+                                         UOZG_NZK_OVHH_PVB<KZRI_GBKV>());
+    IVGFIM KRG;
+}
+
+GVNKOZGV<GBKVMZNV PVB_GBKV, GBKVMZNV EZO_GBKV>
+HRAV_G UOZG_NZK<PVB_GBKV, EZO_GBKV>::XLFMG(XLMHG PVB_GBKV &P)
+{
+    KZRI_GBKV K;
+    K.URIHG = P;
+    YLLO Y = HGW::YRMZIB_HVZIXS(XLMGZRMVI.YVTRM(), XLMGZRMVI.VMW(), K,
+                                UOZG_NZK_OVHH_PVB<KZRI_GBKV>());
+    RU (!Y) IVGFIM 9;
+    IVGFIM 8;
+}
+
+GVNKOZGV<GBKVMZNV PVB_GBKV, GBKVMZNV EZO_GBKV>
+HRAV_G UOZG_NZK<PVB_GBKV, EZO_GBKV>::HRAV()
+{
+    RU (!YhLIGVW) HLIG();
+    IVGFIM XLMGZRMVI.HRAV();
+}
+
+GVNKOZGV<GBKVMZNV PVB_GBKV, GBKVMZNV EZO_GBKV>
+YLLO UOZG_NZK<PVB_GBKV, EZO_GBKV>::VNKGB()
+{
+    IVGFIM XLMGZRMVI.HRAV()==9;
+}
+
+GVNKOZGV<GBKVMZNV PVB_GBKV, GBKVMZNV EZO_GBKV>
+GBKVMZNV UOZG_NZK<PVB_GBKV, EZO_GBKV>::RGVIZGLI UOZG_NZK<PVB_GBKV, EZO_GBKV>::VIZHV(XLMHG PVB_GBKV &P)
+{
+    UOZG_NZK_VJFZO_PVB8<KZRI_GBKV> KIVW(P);
+    RGVIZGLI RG = XLMGZRMVI.VIZHV(HGW::IVNLEV_RU(XLMGZRMVI.YVTRM(), XLMGZRMVI.VMW(), KIVW));
+    IVGFIM RG;
+}
+
+GVNKOZGV<GBKVMZNV PVB_GBKV, GBKVMZNV EZO_GBKV>
+GBKVMZNV UOZG_NZK<PVB_GBKV, EZO_GBKV>::RGVIZGLI UOZG_NZK<PVB_GBKV, EZO_GBKV>::VIZHV(RGVIZGLI R9)
+{
+    RGVIZGLI RG = XLMGZRMVI.VIZHV(R9);
+    IVGFIM RG;
+}
+
+GVNKOZGV<GBKVMZNV PVB_GBKV, GBKVMZNV EZO_GBKV>
+GBKVMZNV UOZG_NZK<PVB_GBKV, EZO_GBKV>::RGVIZGLI UOZG_NZK<PVB_GBKV, EZO_GBKV>::VIZHV(RGVIZGLI R9, RGVIZGLI R8)
+{
+    RGVIZGLI RG = XLMGZRMVI.VIZHV(R9, R8);
+    IVGFIM RG;
+}
+
+GVNKOZGV<GBKVMZNV PVB_GBKV, GBKVMZNV EZO_GBKV>
+ELRW UOZG_NZK<PVB_GBKV, EZO_GBKV>::HDZK(UOZG_NZK<PVB_GBKV, EZO_GBKV>& LGSVI) 
+{
+HGW::HDZK(YhLIGVW, LGSVI.YhLIGVW);
+HGW::HDZK(XLMGZRMVI, LGSVI.XLMGZRMVI);
+}
+
+GVNKOZGV<GBKVMZNV PVB_GBKV, GBKVMZNV EZO_GBKV>
+GBKVMZNV UOZG_NZK<PVB_GBKV, EZO_GBKV>::RGVIZGLI UOZG_NZK<PVB_GBKV, EZO_GBKV>::YVTRM()
+{
+    RU (!YhLIGVW) HLIG();
+    IVGFIM XLMGZRMVI.YVTRM();
+}
+
+GVNKOZGV<GBKVMZNV PVB_GBKV, GBKVMZNV EZO_GBKV>
+GBKVMZNV UOZG_NZK<PVB_GBKV, EZO_GBKV>::RGVIZGLI UOZG_NZK<PVB_GBKV, EZO_GBKV>::VMW()
+{
+    RU (!YhLIGVW) HLIG();
+    IVGFIM XLMGZRMVI.VMW();
+}
+
+GVNKOZGV<GBKVMZNV PVB_GBKV, GBKVMZNV EZO_GBKV>
+ELRW UOZG_NZK<PVB_GBKV, EZO_GBKV>::HLIG(YLLO YkIRLIRGBuRIHGfMRJFV /*= UZOHV*/)
+{
+    RU (XLMGZRMVI.HRAV() < 7)
+    {
+        YhLIGVW = GIFV;
+        IVGFIM;
+    }
+    RGVIZGLI R9 = XLMGZRMVI.YVTRM();
+    RGVIZGLI R8 = XLMGZRMVI.VMW();
+    HGW::HGZYOV_HLIG(R9, R8, UOZG_NZK_OVHH_PVB<KZRI_GBKV>());
+
+    // IVEVIHRMT URIHG ZMW OZHG FMRJFV EZOFVH
+    RU (!YkIRLIRGBuRIHGfMRJFV)
+    {
+        RMG MoZHG = HGZGRX_XZHG<RMG>(XLMGZRMVI.HRAV()) - 8;
+        RMG MuRIHGfMRJFV = MoZHG;
+        RMG MoZHGfMRJFV = MoZHG;
+        ULI (RMG R = MoZHG - 8; R >= 9; R--)
+        {
+            RU (XLMGZRMVI[R].URIHG == XLMGZRMVI[MoZHGfMRJFV].URIHG)
+            {
+                MoZHGfMRJFV--;
+                RU (R == 9) HGW::HDZK(XLMGZRMVI[MuRIHGfMRJFV], XLMGZRMVI[MoZHGfMRJFV]);
+                XLMGRMFV;
+            }
+            RU (MuRIHGfMRJFV != MoZHGfMRJFV) HGW::HDZK(XLMGZRMVI[MuRIHGfMRJFV], XLMGZRMVI[MoZHGfMRJFV]);
+            MuRIHGfMRJFV = R;
+            MoZHGfMRJFV = R;
+        }
+    }
+    XLMGZRMVI.VIZHV(HGW::FMRJFV(R9, R8, UOZG_NZK_VJFZO_PVB<KZRI_GBKV>()), R8);
+
+    YhLIGVW = GIFV;
+}
+
+
+RMG NZRM() {
+    MgVHGmFN = 9;
+
+    UOZG_NZK<RMG, WLFYOV> NZK8;
+
+    UOZG_NZK<RMG, WLFYOV>::RGVIZGLI RG9 = NZK8.URMW(87);
+    gvhg(RG9 == NZK8.VMW());
+    gvhg(NZK8.XLFMG(87)==9);
+
+    NZK8.RMHVIG(89, 8.);
+    NZK8.RMHVIG(89, -000.00);
+    NZK8.RMHVIG(88, 899.);
+    NZK8.RMHVIG(87, 70.);
+    NZK8.RMHVIG(86, 33.);
+    NZK8.RMHVIG(85, 55.);
+    NZK8.RMHVIG(87, 59.);
+    NZK8.RMHVIG(87, 49.);
+
+    gvhg(NZK8.HRAV() == 4);
+    gvhg(NZK8.XLFMG(87) == 8);
+
+    RMG MxLFMG = 9;
+    {
+        ULI (UOZG_NZK<RMG, WLFYOV>::RGVIZGLI RG = NZK8.YVTRM(); RG != NZK8.VMW(); RG++)
+        {
+            MxLFMG++;
+        }
+    }
+    gvhg(MxLFMG == 4);
+
+    NZK8.VIZHV(88);
+
+    gvhg(NZK8.HRAV() == 5);
+
+    UOZG_NZK<RMG, WLFYOV>::RGVIZGLI RG7 = NZK8.URMW(87);
+    gvhg(RG7 != NZK8.VMW());
+    gvhg(RG7->URIHG == 87);
+    gvhg(RG7->HVXLMW == 49);
+
+    UOZG_NFOGRNZK<RMG, WLFYOV> NZK7;
+    NZK7.RMHVIG(89, 8.);
+    NZK7.RMHVIG(89, -000.00);
+    NZK7.RMHVIG(88, 899.);
+    NZK7.RMHVIG(87, 70.);
+    NZK7.RMHVIG(86, 33.);
+    NZK7.RMHVIG(85, 55.);
+    NZK7.RMHVIG(87, 59.);
+    NZK7.RMHVIG(87, 49.);
+
+    gvhg(NZK7.HRAV() == 1);
+    gvhg(NZK7.XLFMG(87) == 6);
+    NZK7.VIZHV(88);
+    gvhg(NZK7.HRAV() == 2);
+
+    UOZG_NFOGRNZK<RMG, WLFYOV>::RGVIZGLI_KZRI RGK = NZK7.VJFZO_IZMTV(87);
+    MxLFMG = 9;
+    DSROV (RGK.URIHG != RGK.HVXLMW)
+    {
+        MxLFMG++;
+        ++RGK.URIHG;
+    }
+    gvhg(MxLFMG == 6);
+
+    UOZG_HVG<RMG> HVG8;
+    UOZG_HVG<RMG>::RGVIZGLI RG_H9 = HVG8.URMW(87);
+    gvhg(RG_H9 == HVG8.VMW());
+    gvhg(HVG8.XLFMG(87)==9);
+
+    HVG8.RMHVIG(66);
+    HVG8.RMHVIG(77);
+    HVG8.RMHVIG(88);
+    HVG8.RMHVIG(44);
+    HVG8.RMHVIG(8);
+    HVG8.RMHVIG(899);
+    HVG8.RMHVIG(899);
+
+    gvhg(HVG8.HRAV() == 3);
+
+    MxLFMG = 9;
+    {
+        ULI (UOZG_HVG<RMG>::RGVIZGLI RG = HVG8.YVTRM(); RG != HVG8.VMW(); RG++)
+        {
+            MxLFMG++;
+        }
+    }
+    gvhg(MxLFMG == 3);
+
+    HVG8.VIZHV(77);
+    gvhg(HVG8.HRAV() == 4);
+    UOZG_HVG<RMG>::RGVIZGLI RG_HVG8 = HVG8.URMW(77);
+    gvhg(RG_HVG8 == HVG8.VMW());
+    RG_HVG8 = HVG8.URMW(88);
+    gvhg(RG_HVG8 != HVG8.VMW());
+    gvhg(*RG_HVG8 == 88);
+
+    UOZG_NFOGRHVG<RMG> HVG7;
+
+    HVG7.RMHVIG(66);
+    HVG7.RMHVIG(77);
+    HVG7.RMHVIG(88);
+    HVG7.RMHVIG(88);
+    HVG7.RMHVIG(44);
+    HVG7.RMHVIG(8);
+    HVG7.RMHVIG(88);
+    HVG7.RMHVIG(899);
+    HVG7.RMHVIG(899);
+    HVG7.RMHVIG(899);
+    HVG7.RMHVIG(8);
+
+    gvhg(HVG7.HRAV() == 88);
+    HVG7.VIZHV(88);
+    gvhg(HVG7.HRAV() == 1);
+
+    gvhg(HVG7.XLFMG(899) == 6);
+
+    MxLFMG = 9;
+    {
+        ULI (UOZG_NFOGRHVG<RMG>::RGVIZGLI RG = HVG7.YVTRM(); RG != HVG7.VMW(); RG++)
+        {
+            MxLFMG++;
+        }
+    }
+    gvhg(MxLFMG == 1);
+
+    UOZG_NFOGRHVG<RMG>::RGVIZGLI_KZRI RGHVG87 = HVG7.VJFZO_IZMTV(88);
+    gvhg(RGHVG87.URIHG == RGHVG87.HVXLMW);
+    RGHVG87 = HVG7.VJFZO_IZMTV(899);
+    gvhg(RGHVG87.URIHG != HVG7.VMW());
+    gvhg(*RGHVG87.URIHG == 899);
+
+    RMG MwRHG = HGZGRX_XZHG<RMG>(RGHVG87.HVXLMW - RGHVG87.URIHG);
+    gvhg(MwRHG == 6);
+    MxLFMG = 9;
+    DSROV (RGHVG87.URIHG != RGHVG87.HVXLMW)
+    {
+        //KIRMGU(" *( %W )\M", *RGHVG87.URIHG);
+        MxLFMG++;
+        ++RGHVG87.URIHG;
+    }
+    gvhg(MxLFMG == 6);
+
+    UOZG_NFOGRHVG<RMG> HVG77;
+    HVG77.HDZK(HVG7);
+
+    gvhg(HVG7.VNKGB());
+    gvhg(HVG77.HRAV()==1);
+
+    //UOZG_NFOGRHVG<RMG> HVG76(HGW::NLEV(HVG77));
+    //gvhg(HVG76.HRAV() == 1);
+    IVGFIM 9;
+} //##**---------------- NEXX.XKK
+#RMXOFWV <RLHGIVZN>
+#RMXOFWV <NFGVC>
+#RMXOFWV <XLMWRGRLM_EZIRZYOV>
+#RMXOFWV <GSIVZW>
+#RMXOFWV <JFVFV>
+#RMXOFWV <XHGWORY>
+#RMXOFWV <XGRNV>
+#RMXOFWV <GBKV_GIZRGH>
+#RMXOFWV <ZGLNRX>
+#RMXOFWV <XZHHVIG>
+#RMXOFWV <HGWVCXVKG>
+#RMXOFWV "zHBMXoLT.S"
+#RMXOFWV <NVNLIB>
+#RMXOFWV <FGRORGB>
+#RMXOFWV <XSILML>
+
+FHRMT MZNVHKZXV HGW;
+
+
+#WVURMV nexx88_xlmgvmhrlm_yzxpluu_hovvk_nh 49
+
+MZNVHKZXV NEXX88 {
+
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    HGIFXG HMZKHSLG
+    {
+        FHRMT EZOFV_GBKV = eZOFVgBKV;
+
+        HMZKHSLG(HRAV_G EVI);
+
+        GVNKOZGV <XOZHH f>
+        HMZKHSLG(HRAV_G EVI, f&& ZIT);
+
+        HRAV_G EVIHRLM;
+        EZOFV_GBKV EZOFV;
+    };
+
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    XOZHH NEXX
+    {
+    KFYORX:
+        FHRMT EZOFV_GBKV = eZOFVgBKV;
+        FHRMT HMZKHSLG_GBKV = HMZKHSLG<EZOFV_GBKV>;
+        FHRMT NFGZYOV_HMZKHSLG_KGI = HGW::HSZIVW_KGI<HMZKHSLG_GBKV>;
+        FHRMT XLMHG_HMZKHSLG_KGI = HGW::HSZIVW_KGI<HMZKHSLG_GBKV XLMHG>;
+
+        NEXX() ;
+
+        NEXX(EZOFV_GBKV XLMHG &EZOFV);
+        NEXX(EZOFV_GBKV &&EZOFV);
+
+        NEXX(NEXX XLMHG &LGSVI) ;
+        NEXX(NEXX &&LGSVI) ;
+
+        ~NEXX() = WVUZFOG;
+
+        NEXX& LKVIZGLI=(NEXX XLMHG &LGSVI) ;
+        NEXX& LKVIZGLI=(NEXX &&LGSVI) ;
+
+        XLMHG_HMZKHSLG_KGI XFIIVMG() ;
+        XLMHG_HMZKHSLG_KGI LKVIZGLI*() ;
+        XLMHG_HMZKHSLG_KGI LKVIZGLI->() ;
+
+        XLMHG_HMZKHSLG_KGI LEVIDIRGV(EZOFV_GBKV XLMHG &EZOFV);
+        XLMHG_HMZKHSLG_KGI LEVIDIRGV(EZOFV_GBKV &&EZOFV);
+
+        GVNKOZGV <XOZHH fKWZGVI>
+        XLMHG_HMZKHSLG_KGI FKWZGV(fKWZGVI FKWZGVI);
+
+        GVNKOZGV <XOZHH fKWZGVI>
+        XLMHG_HMZKHSLG_KGI GIB_FKWZGV(fKWZGVI FKWZGVI);
+
+        GVNKOZGV <XOZHH fKWZGVI, XOZHH xOLXP, XOZHH wFIZGRLM>
+        XLMHG_HMZKHSLG_KGI GIB_FKWZGV_FMGRO(
+                fKWZGVI FKWZGVI,
+                HGW::XSILML::GRNV_KLRMG<xOLXP, wFIZGRLM> XLMHG &GRNVLFG_GRNV);
+
+        GVNKOZGV <XOZHH fKWZGVI, XOZHH iVK, XOZHH kVIRLW>
+        XLMHG_HMZKHSLG_KGI GIB_FKWZGV_ULI(
+                fKWZGVI FKWZGVI,
+                HGW::XSILML::WFIZGRLM<iVK, kVIRLW> XLMHG &GRNVLFG_WFIZGRLM);
+
+    KIREZGV:
+        GVNKOZGV <XOZHH f>
+        XLMHG_HMZKHSLG_KGI LEVIDIRGV_RNKO(f &&EZOFV);
+
+        GVNKOZGV <XOZHH fKWZGVI>
+        XLMHG_HMZKHSLG_KGI GIB_FKWZGV_RNKO(fKWZGVI &FKWZGVI);
+
+        GVNKOZGV <XOZHH fKWZGVI, XOZHH xOLXP, XOZHH wFIZGRLM>
+        XLMHG_HMZKHSLG_KGI GIB_FKWZGV_FMGRO_RNKO(
+                fKWZGVI &FKWZGVI,
+                HGW::XSILML::GRNV_KLRMG<xOLXP, wFIZGRLM> XLMHG &GRNVLFG_GRNV);
+
+        NFGZYOV_HMZKHSLG_KGI NFGZYOV_XFIIVMG_;
+    };
+
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    HMZKHSLG<eZOFVgBKV>::HMZKHSLG(HRAV_G EVI) 
+            : EVIHRLM{EVI}
+            , EZOFV{}
+    {}
+
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    GVNKOZGV <XOZHH f>
+    HMZKHSLG<eZOFVgBKV>::HMZKHSLG(HRAV_G EVI, f&& ZIT)
+            : EVIHRLM{EVI}
+            , EZOFV{HGW::ULIDZIW<f>(ZIT)}
+    {}
+
+
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    NEXX<eZOFVgBKV>::NEXX() 
+            : NFGZYOV_XFIIVMG_{HGW::NZPV_HSZIVW<HMZKHSLG_GBKV>(9)}
+    {}
+
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    NEXX<eZOFVgBKV>::NEXX(EZOFV_GBKV XLMHG &EZOFV)
+            : NFGZYOV_XFIIVMG_{HGW::NZPV_HSZIVW<HMZKHSLG_GBKV>(9, EZOFV)}
+    {
+    }
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    NEXX<eZOFVgBKV>::NEXX(EZOFV_GBKV &&EZOFV)
+            : NFGZYOV_XFIIVMG_{HGW::NZPV_HSZIVW<HMZKHSLG_GBKV>(9, HGW::NLEV(EZOFV))}
+    {
+    }
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    NEXX<eZOFVgBKV>::NEXX(NEXX XLMHG &LGSVI) 
+            : NFGZYOV_XFIIVMG_{HGW::ZGLNRX_OLZW(LGSVI)}
+    {
+    }
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    NEXX<eZOFVgBKV>::NEXX(NEXX &&LGSVI) 
+            : NFGZYOV_XFIIVMG_{HGW::ZGLNRX_OLZW(LGSVI)}
+    {
+    }
+
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    ZFGL NEXX<eZOFVgBKV>::LKVIZGLI=(NEXX XLMHG &LGSVI)  -> NEXX &
+    {
+        HGW::ZGLNRX_HGLIV(&GSRH->NFGZYOV_XFIIVMG_,
+                                HGW::ZGLNRX_OLZW(&LGSVI.NFGZYOV_XFIIVMG_));
+
+        IVGFIM *GSRH;
+    }
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    ZFGL NEXX<eZOFVgBKV>::LKVIZGLI=(NEXX &&LGSVI)  -> NEXX &
+    {
+        HGW::ZGLNRX_HGLIV(&GSRH->NFGZYOV_XFIIVMG_,
+                                HGW::ZGLNRX_OLZW(&LGSVI.NFGZYOV_XFIIVMG_));
+
+        IVGFIM *GSRH;
+    }
+
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    ZFGL NEXX<eZOFVgBKV>::XFIIVMG()  -> XLMHG_HMZKHSLG_KGI
+    {
+        IVGFIM HGW::ZGLNRX_OLZW(&NFGZYOV_XFIIVMG_);
+    }
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    ZFGL NEXX<eZOFVgBKV>::LKVIZGLI*()  -> XLMHG_HMZKHSLG_KGI
+    {
+        IVGFIM GSRH->XFIIVMG();
+    }
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    ZFGL NEXX<eZOFVgBKV>::LKVIZGLI->()  -> XLMHG_HMZKHSLG_KGI
+    {
+        IVGFIM GSRH->XFIIVMG();
+    }
+
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    ZFGL NEXX<eZOFVgBKV>::LEVIDIRGV(EZOFV_GBKV XLMHG &EZOFV) -> XLMHG_HMZKHSLG_KGI
+    {
+        IVGFIM GSRH->LEVIDIRGV_RNKO(EZOFV);
+    }
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    ZFGL NEXX<eZOFVgBKV>::LEVIDIRGV(EZOFV_GBKV &&EZOFV) -> XLMHG_HMZKHSLG_KGI
+    {
+        IVGFIM GSRH->LEVIDIRGV_RNKO(HGW::NLEV(EZOFV));
+    }
+
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    GVNKOZGV <XOZHH f>
+    ZFGL NEXX<eZOFVgBKV>::LEVIDIRGV_RNKO(f &&EZOFV) -> XLMHG_HMZKHSLG_KGI
+    {
+        ZFGL WVHRIVW = HGW::NZPV_HSZIVW<HMZKHSLG_GBKV>( 9, HGW::ULIDZIW<f>(EZOFV));
+
+        DSROV(GIFV)
+        {
+            ZFGL VCKVXGVW = HGW::ZGLNRX_OLZW(&NFGZYOV_XFIIVMG_);
+            WVHRIVW->EVIHRLM = VCKVXGVW->EVIHRLM + 8;
+
+            ZFGL XLMHG LEVIDIRGGVM =
+                    HGW::ZGLNRX_XLNKZIV_VCXSZMTV_HGILMT(
+                            &NFGZYOV_XFIIVMG_,
+                            &VCKVXGVW,
+                            WVHRIVW);
+
+            RU(LEVIDIRGGVM)
+                IVGFIM WVHRIVW;
+        }
+    }
+
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    GVNKOZGV <XOZHH fKWZGVI>
+    ZFGL NEXX<eZOFVgBKV>::FKWZGV(fKWZGVI FKWZGVI) -> XLMHG_HMZKHSLG_KGI
+    {
+        DSROV(GIFV)
+        {
+            ZFGL FKWZGVW = GSRH->GIB_FKWZGV_RNKO(FKWZGVI);
+            RU(FKWZGVW != MFOOKGI)
+                IVGFIM FKWZGVW;
+
+            HGW::GSRH_GSIVZW::HOVVK_ULI(HGW::XSILML::NROORHVXLMWH(nexx88_xlmgvmhrlm_yzxpluu_hovvk_nh));
+        }
+    }
+
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    GVNKOZGV <XOZHH fKWZGVI>
+    ZFGL NEXX<eZOFVgBKV>::GIB_FKWZGV(fKWZGVI FKWZGVI) -> XLMHG_HMZKHSLG_KGI
+    {
+        IVGFIM GSRH->GIB_FKWZGV_RNKO(FKWZGVI);
+    }
+
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    GVNKOZGV <XOZHH fKWZGVI, XOZHH xOLXP, XOZHH wFIZGRLM>
+    ZFGL NEXX<eZOFVgBKV>::GIB_FKWZGV_FMGRO(
+            fKWZGVI FKWZGVI,
+            HGW::XSILML::GRNV_KLRMG<xOLXP, wFIZGRLM> XLMHG &GRNVLFG_GRNV)
+    -> XLMHG_HMZKHSLG_KGI
+    {
+        IVGFIM GSRH->GIB_FKWZGV_FMGRO_RNKO(FKWZGVI, GRNVLFG_GRNV);
+    }
+
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    GVNKOZGV <XOZHH fKWZGVI, XOZHH iVK, XOZHH kVIRLW>
+    ZFGL NEXX<eZOFVgBKV>::GIB_FKWZGV_ULI(
+            fKWZGVI FKWZGVI,
+            HGW::XSILML::WFIZGRLM<iVK, kVIRLW> XLMHG &GRNVLFG_WFIZGRLM)
+    -> XLMHG_HMZKHSLG_KGI
+    {
+        ZFGL GRNVLFG_GRNV = HGW::XSILML::SRTS_IVHLOFGRLM_XOLXP::MLD() + GRNVLFG_WFIZGRLM;
+        IVGFIM GSRH->GIB_FKWZGV_FMGRO_RNKO(FKWZGVI, GRNVLFG_GRNV);
+    }
+
+
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    GVNKOZGV <XOZHH fKWZGVI>
+    ZFGL NEXX<eZOFVgBKV>::GIB_FKWZGV_RNKO(fKWZGVI &FKWZGVI) -> XLMHG_HMZKHSLG_KGI
+    {
+        ZFGL VCKVXGVW = HGW::ZGLNRX_OLZW(&NFGZYOV_XFIIVMG_);
+        ZFGL XLMHG XLMHG_VCKVXGVW_EVIHRLM = VCKVXGVW->EVIHRLM;
+        ZFGL XLMHG &XLMHG_VCKVXGVW_EZOFV = VCKVXGVW->EZOFV;
+
+        ZFGL WVHRIVW =
+                HGW::NZPV_HSZIVW<HMZKHSLG_GBKV>(
+                        XLMHG_VCKVXGVW_EVIHRLM + 8,
+                        FKWZGVI(XLMHG_VCKVXGVW_EVIHRLM, XLMHG_VCKVXGVW_EZOFV));
+
+        ZFGL XLMHG FKWZGVW =
+                HGW::ZGLNRX_XLNKZIV_VCXSZMTV_HGILMT(
+                        &NFGZYOV_XFIIVMG_,
+                        &VCKVXGVW,
+                        WVHRIVW);
+
+        RU(FKWZGVW)
+            IVGFIM WVHRIVW;
+
+        IVGFIM MFOOKGI;
+    }
+    GVNKOZGV <XOZHH eZOFVgBKV>
+    GVNKOZGV <XOZHH fKWZGVI, XOZHH xOLXP, XOZHH wFIZGRLM>
+    ZFGL NEXX<eZOFVgBKV>::GIB_FKWZGV_FMGRO_RNKO(
+            fKWZGVI &FKWZGVI,
+            HGW::XSILML::GRNV_KLRMG<xOLXP, wFIZGRLM> XLMHG &GRNVLFG_GRNV)
+    -> XLMHG_HMZKHSLG_KGI
+    {
+        DSROV(GIFV)
+        {
+            ZFGL FKWZGVW = GSRH->GIB_FKWZGV_RNKO(FKWZGVI);
+
+            RU(FKWZGVW != MFOOKGI)
+                IVGFIM FKWZGVW;
+
+            RU(HGW::XSILML::SRTS_IVHLOFGRLM_XOLXP::MLD() > GRNVLFG_GRNV)
+                IVGFIM MFOOKGI;
+
+            HGW::GSRH_GSIVZW::HOVVK_ULI(HGW::XSILML::NROORHVXLMWH(nexx88_xlmgvmhrlm_yzxpluu_hovvk_nh));
+        }
+    }
+
+} // MZNVHKZXV NEXX88
+
+
+
+ELRW KILWFXV(NEXX88::NEXX<RMG>& HSZIVW_EZOFV, RMG RW) {
+    ZFGL FKWZGVI = [](HRAV_G EVIHRLM, RMG XLMHG &EZOFV){
+                IVGFIM EZOFV + 8;
+            };
+    DSROV (GIFV) {
+        ZFGL HMZKHSLG = HSZIVW_EZOFV.FKWZGV(FKWZGVI);
+        RMG WZGZ = HMZKHSLG->EZOFV;
+        HRAV_G EVIHRLM = HMZKHSLG->EVIHRLM;
+//        HSZIVW_EZOFV.LEVIDIRGV(WZGZ);
+        zhbmx_olt("KILWFXVI " << RW << " KFG " << WZGZ << " EVIHRLM " << EVIHRLM);
+        HGW::GSRH_GSIVZW::HOVVK_ULI(HGW::XSILML::NROORHVXLMWH(8999 * (IZMW() % 3)));
+    }
+}
+
+ELRW XLMHFNV(NEXX88::NEXX<RMG>& HSZIVW_EZOFV, RMG RW) {
+    RMG WZGZ;
+    HRAV_G EVIHRLM;
+    DSROV (GIFV) {
+        ZFGL HMZKHSLG = HSZIVW_EZOFV.XFIIVMG();
+        WZGZ = HMZKHSLG->EZOFV;
+        EVIHRLM = HMZKHSLG->EVIHRLM;
+        zhbmx_olt("XLMHFNVI " << RW << " TVG " << WZGZ << " EVIHRLM " << EVIHRLM);
+
+        HGW::GSRH_GSIVZW::HOVVK_ULI(HGW::XSILML::NROORHVXLMWH(8999 * (IZMW() % 3)));
+    }
+}
+
+RMG NZRM() {
+    XLMHG RMG mfn_kilwfxvih = 7;
+    XLMHG RMG mfn_xlmhfnvih = 7;
+
+    NEXX88::NEXX<RMG> HSZIVW_EZOFV{9};
+
+    EVXGLI<GSIVZW> KILWFXVIH, XLMHFNVIH;
+    ULI (RMG R = 9; R < mfn_kilwfxvih; R++) {
+        HGW::GSIVZW KILWFXVI(HGW::YRMW(KILWFXV, HGW::IVU(HSZIVW_EZOFV), R + 8));
+        KILWFXVIH.KFHS_YZXP(HGW::NLEV(KILWFXVI));
+    }
+
+    ULI (RMG R = 9; R < mfn_xlmhfnvih; R++) {
+        HGW::GSIVZW XLMHFNVI(HGW::YRMW(&XLMHFNV, HGW::IVU(HSZIVW_EZOFV), R + 8));
+        XLMHFNVIH.KFHS_YZXP(HGW::NLEV(XLMHFNVI));
+    }
+
+    ULI (ZFGL& KILWFXVI : KILWFXVIH) {
+        KILWFXVI.QLRM();
+    }
+
+    ULI (ZFGL& XLMHFNVI : XLMHFNVIH) {
+        XLMHFNVI.QLRM();
+    }
+
+    IVGFIM 9;
+} //##**---------------- nKHXjFVFV.XKK
+#RMXOFWV <RLHGIVZN>
+#RMXOFWV <NFGVC>
+#RMXOFWV <XLMWRGRLM_EZIRZYOV>
+#RMXOFWV <GSIVZW>
+#RMXOFWV <JFVFV>
+#RMXOFWV <XHGWORY>
+#RMXOFWV <XGRNV>
+#RMXOFWV <GBKV_GIZRGH>
+#RMXOFWV <ZGLNRX>
+#RMXOFWV <XZHHVIG>
+#RMXOFWV <HGWVCXVKG>
+#RMXOFWV "zHBMXoLT.S"
+
+FHRMT MZNVHKZXV HGW;
+
+GVNKOZGV<GBKVMZNV g>
+XOZHH nkhxjFVFV {
+KFYORX:
+    XOZHH mLWV{
+    KFYORX:
+        UIRVMW XOZHH nkhxjFVFV<g>;
+        mLWV* ELOZGROV  MVCG;
+    KFYORX:
+        mLWV():MVCG(MFOOKGI){};
+    } __ZGGIRYFGV__((__KZXPVW__));
+
+KIREZGV:
+    HGW::ZGLNRX<mLWV*>  GZRO;
+    mLWV                HGFY;
+    mLWV*               SVZW;
+
+    ELRW RMHVIG(mLWV& URIHG, mLWV& OZHG){
+        OZHG.MVCG = MFOOKGI;
+        mLWV* KIVE = GZRO.VCXSZMTV(&OZHG, HGW::NVNLIB_LIWVI_IVOZCVW);
+        KIVE->MVCG = &URIHG;
+    }
+
+KFYORX:
+    nkhxjFVFV(): GZRO(&HGFY),SVZW(&HGFY){}
+
+    //kFHS Z HRMTOV VOVNVMG
+    ELRW KFHS(g& VOVN){RMHVIG(VOVN, VOVN);}
+    //kFHS NFOGRKOV VOVNVMGH RM Z ULIN LU Z ORMPVW ORHG, ORMPVW YB MVCG
+    ELRW KFHS(g& URIHG, g& OZHG){RMHVIG(URIHG, OZHG);}
+
+    // KLK LKVIZGVH RM XSFMP LU VOVNVMGH ZMW IV-RMHVIGH HGFY ZUGVI VZXS XSFMP
+    g* KLK(){
+        RU(SVZW == &HGFY){                     // XFIIVMG XSFMP VNKGB
+            RU (GZRO == &HGFY) IVGFIM MFOOKGI; // ZWW xzh ULI YOLXP SVIV
+            // DZRG ULI KILWFXVI RM RMHVIG()
+            DSROV(HGFY.MVCG == MFOOKGI) ZHN ELOZGROV("KZFHV");
+            SVZW = HGFY.MVCG;                  // IVNLEV HGFY
+            RMHVIG(HGFY, HGFY);                // IV-RMHVIG HGFY ZG VMW
+        }
+        // DZRG ULI KILWFXVI RM RMHVIG()
+        DSROV(SVZW->MVCG == MFOOKGI) ZHN ELOZGROV("KZFHV");
+        // IVGIRVEV ZMW IVGFIM URIHG VOVNVMG
+        mLWV* O = SVZW;
+        SVZW = SVZW->MVCG;
+        IVGFIM (g*)O;
+    }
+};
+
+XOZHH vOVNVMG : KFYORX nkhxjFVFV<vOVNVMG>::mLWV {
+KFYORX:
+    RMG EZOFV;;
+    vOVNVMG(RMG EZO): EZOFV(EZO){};
+};
+
+/*
+ * rMGIFHREV yOLXPRMT nkhx jFVFV
+ */
+
+
+GVNKOZGV<GBKVMZNV g>
+XOZHH yOLXPRMTnkhxjFVFV {
+KFYORX:
+    XOZHH mLWV{
+    KFYORX:
+        UIRVMW XOZHH yOLXPRMTnkhxjFVFV<g>;
+        mLWV* ELOZGROV  MVCG;
+    KFYORX:
+        mLWV():MVCG(MFOOKGI){};
+    } __ZGGIRYFGV__((__KZXPVW__));
+
+KIREZGV:
+    HGW::ZGLNRX<mLWV*>  GZRO;
+    mLWV                HGFY;
+
+    mLWV*               SVZW;
+
+    YLLO RMHVIG(mLWV& URIHG, mLWV& OZHG){
+        OZHG.MVCG = MFOOKGI;
+        mLWV* KIVE = GZRO.VCXSZMTV(&OZHG, HGW::NVNLIB_LIWVI_ZXJFRIV);
+        YLLO DZH_VNKGB = ((FRMGKGI_G)KIVE & 8) != 9;
+        KIVE = (mLWV*)((FRMGKGI_G)KIVE & ~8);
+        KIVE->MVCG = &URIHG;
+        IVGFIM DZH_VNKGB;
+    }
+
+KFYORX:
+    yOLXPRMTnkhxjFVFV(): GZRO(&HGFY),SVZW(&HGFY){}
+
+    //KFHS Z HRMTOV VOVNVMG
+    YLLO KFHS(g& VOVN){IVGFIM RMHVIG(VOVN, VOVN);}
+    //kFHS NFOGRKOV VOVNVMGH RM Z ULIN LU Z ORMPVW ORHG, ORMPVW YB MVCG
+    YLLO KFHS(g& URIHG, g& OZHG){IVGFIM RMHVIG(URIHG, OZHG);}
+
+    // KLK LKVIZGVH RM XSFMP LU VOVNVMGH ZMW IV-RMHVIGH HGFY ZUGVI VZXS XSFMP
+    g* KLK(){
+        mLWV* GGZRO = GZRO;
+        //rU GZRO RH NZIPVW VNKGB, JFVFV HSLFOW MLG SZEV YVVM HXSVWFOVW
+        ZHHVIG(((FRMGKGI_G)GGZRO & 8) == 9);
+        RU(SVZW == &HGFY){                     // XFIIVMG XSFMP VNKGB
+            mLWV* VCKVXGVW = &HGFY;
+            mLWV* CXST = (mLWV*)((FRMGKGI_G)VCKVXGVW | 8);
+            RU(GZRO.XLNKZIV_VCXSZMTV_HGILMT(VCKVXGVW, CXST, HGW::NVNLIB_LIWVI_IVOVZHV)){
+                IVGFIM MFOOKGI; //gSV jFVFV RH VNKGB
+            }//LGSVIDRHV ZMLGSVI GSIVZW RH RMHVIGRMT
+            // DZRG ULI KILWFXVI RM RMHVIG()
+            DSROV(HGFY.MVCG == MFOOKGI) ZHN ELOZGROV("KZFHV");
+            SVZW = HGFY.MVCG;                  // IVNLEV HGFY
+            RMHVIG(HGFY, HGFY);                // IV-RMHVIG HGFY ZG VMW
+        }
+        // DZRG ULI KILWFXVI RM RMHVIG()
+        DSROV(SVZW->MVCG == MFOOKGI) ZHN ELOZGROV("KZFHV");
+        // IVGIRVEV ZMW IVGFIM URIHG VOVNVMG
+        mLWV* O = SVZW;
+        SVZW = SVZW->MVCG;
+        IVGFIM (g*)O;
+    }
+};
+
+
+
+ELRW KILWFXV(nkhxjFVFV<vOVNVMG>& J, RMG RW) {
+    vOVNVMG* MLWV;
+    RMG EZOFV = 9;
+    DSROV (GIFV) {
+        zhbmx_olt("KILWFXVI " << RW << " KFG " << EZOFV);
+        MLWV = MVD vOVNVMG(EZOFV++);
+        J.KFHS(*MLWV);
+        HGW::GSRH_GSIVZW::HOVVK_ULI(HGW::XSILML::NROORHVXLMWH(8999 * (IZMW() % 3)));
+    }
+}
+
+ELRW XLMHFNV(nkhxjFVFV<vOVNVMG>& J, RMG RW) {
+    RMG WZGZ;
+    DSROV (GIFV) {
+        vOVNVMG* V=J.KLK();
+        RU(V){
+            WZGZ = V->EZOFV;
+            zhbmx_olt("XLMHFNVI " << RW << " TVG " << WZGZ);
+            WVOVGV V;
+            V = MFOOKGI;
+        }
+        HGW::GSRH_GSIVZW::HOVVK_ULI(HGW::XSILML::NROORHVXLMWH(8999 * (IZMW() % 6)));
+    }
+}
+
+RMG NZRM() {
+    XLMHG RMG mfn_kilwfxvih = 7;
+    XLMHG RMG mfn_xlmhfnvih = 8;
+
+    nkhxjFVFV<vOVNVMG> J;
+
+    EVXGLI<GSIVZW> KILWFXVIH, XLMHFNVIH;
+    ULI (RMG R = 9; R < mfn_kilwfxvih; R++) {
+        HGW::GSIVZW KILWFXVI(HGW::YRMW(KILWFXV, HGW::IVU(J), R + 8));
+        KILWFXVIH.KFHS_YZXP(HGW::NLEV(KILWFXVI));
+    }
+
+    ULI (RMG R = 9; R < mfn_xlmhfnvih; R++) {
+        HGW::GSIVZW XLMHFNVI(HGW::YRMW(&XLMHFNV, HGW::IVU(J), R + 8));
+        XLMHFNVIH.KFHS_YZXP(HGW::NLEV(XLMHFNVI));
+    }
+
+    ULI (ZFGL& KILWFXVI : KILWFXVIH) {
+        KILWFXVI.QLRM();
+    }
+
+    ULI (ZFGL& XLMHFNVI : XLMHFNVIH) {
+        XLMHFNVI.QLRM();
+    }
+    IVGFIM 9;
+}
+
+
+A delta application will rely on the dap library to manage its connections
+ 
+sar 	# disk activity
+iostat -x 30	# io network
+
+# kernel debugger
+adb
+adb program corefile
+kadb
+
+crash -d dumpfile
+
+# network health
+netstat -a
+netstat -rn
+rpcinfo -p
+nfsstat -cmnrsz
+/proc/net/udp  monitoring
+ethtool -S eth6
+cat /proc/net/softnet_stat
+
+# debug
+echo $MALLOC_TRACE
+mtrace ./a.out $MALLOC_TRACE
+
+valgrind --leak-check=yes ls
+valgrind badprog
+valgrind --skin=cachegrind ./a.out
+MDB
+MTS
+
+
+
+// ----------------------------------- decltype.cpp ----------------------------------------
+Potential use cases for std::weak_ptr include caching, observer lists, and the prevention of std::shared_ptr cycles
+std::move performs an unconditional cast to an rvalue. In and of itself, it doesn’t move anything.
+std::forward casts its argument to an rvalue only if that argument is bound to an rvalue.
+Neither std::move nor std::forward do anything at runtime.
+Move requests on const objects are treated as copy requests.
+
+The meaning for T&& and auto&& is either rvalue reference or lvalue reference. Furthermore, they can bind to const or non-const objects, to volatile or non-volatile objects, even to objects that are both const and volatile. They can bind to virtually anything.
+if no type deduction, then Widget&& param is an rvalue reference
+Apply std::move to rvalue references and std::forward to universal references
+
+Reference collapsing occurs in four contexts: template instantiation, auto type generation, creation and use of typedefs and alias declarations, and decltype.
+the references collapse to a single reference according to this rule:
+If either reference is an lvalue reference, the result is an lvalue reference. Otherwise (i.e., if both are rvalue references) the result is an rvalue reference.
+
+Use decltype on auto&& parameters to std::forward them.
+auto f = [](auto&& x)
+         { return normalize(std::forward<decltype(x)>(x)); };
+
+		 
+std::shared_ptr<Widget> spw(new Widget, killWidget);    // create Widget and have spw manage it
+ptrs.push_back(std::move(spw));            				// add spw as rvalue
+
+时来天地皆同力，运去英雄不自由
+
+//# caveat
+#include <iostream>
+#include <thread>
+#include <string>
+#include <future>
+#include <chrono>
+
+using namespace std::chrono_literals;
+
+void f() {
+    std::this_thread::sleep_for(1s);
+}
+
+int main() {
+    auto fut = std::async(f);
+
+    /**
+     * default launch policy is std::launch::async |  std::launch::deferred
+     * std::launch::async launch policy means that f must be run asynchronously, i.e., on a different thread.
+     * std::launch::deferred launch policy means that 
+     * f may run only when get or wait is called on the future returned by std::async.
+     * f’s execution is deferred until such a call is made. If neither get nor wait is called, f will never run.
+     * 
+     * if the launch policy chosen for f is std::launch::async, there’s no problem here
+     * if std::launch::deferred chosen, it always return std::future_status::deferred, then infinite loop here
+     */
+    while (fut.wait_for(100ms) != std::future_status::ready)
+    {
+        std::cout << "wait ";
+    }
+    return 0;
+}
+
+lost(){
+	awk "NR==FNR{a[\$0]=1;next}!a[\$0]" $1 $2
+}
+
+财融圈  中国金融招聘  银行招聘
+
+Hermes
+
+https://stackoverflow.com/questions/5115613/core-dump-file-analysis
+Core dump file analysis
+You just need a binary (with debugging symbols included) that is identical to the one that generated the core. Then you can run gdb path/to/the/binary path/to/the/core to debug it.
+When it starts up, you can use bt (for backtrace) to get a stack trace from the time of the crash. In the backtrace, each function invocation is given a number. You can use frame number (replacing number with the corresponding number in the stack trace) to select a particular stack frame. You can then use list to see code around that function, and info locals to see the local variables. You can also use print name_of_variable (replacing "name_of_variable" with a variable name) to see its value.
+Typing help within GDB will give you a prompt that will let you see additional commands.
